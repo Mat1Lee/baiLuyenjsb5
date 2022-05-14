@@ -1,0 +1,24 @@
+
+* {
+	margin: 0px; 
+	padding: 0px; 
+	box-sizing: border-box;
+}
+
+body, html {
+	height: 100%;
+	font-family: Lato;
+}
+
+
+.dongia {
+    padding: 9px;
+    background: #e7cc5c;
+    border-radius: 10px;
+  }
+ /* End don gia   */
+
+ /*div thanh tien*/
+ #divThanhTien{
+  display: none ;
+ }
